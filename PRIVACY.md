@@ -1,10 +1,10 @@
 # Privacy Policy
 
-**App:** [APP NAME] (the "App")
+**App:** Everything (the "App")
 **Last updated:** 11 October 2026
-**Contact:** [CONTACT EMAIL]
+**Contact:** christianshemkai045@gmail.com
 
-[APP NAME] is a local marketplace for Arusha, Tanzania. It connects customers with shops, service providers (fundis) and delivery riders. This policy explains what information the App collects, why, who can see it, and what choices you have. We wrote it to be read, so it is short and plain.
+Everything is a local marketplace for Arusha, Tanzania. It connects customers with shops, service providers (fundis) and delivery riders. This policy explains what information the App collects, why, who can see it, and what choices you have. We wrote it to be read, so it is short and plain.
 
 ## 1. The most important points
 
@@ -86,4 +86,4 @@ If we change this policy in a meaningful way, we will update the date above and 
 
 ## 11. Contact us
 
-Questions, requests or complaints: **[CONTACT EMAIL]**
+Questions, requests or complaints: **[christianshemkai045@gmail.com]**
